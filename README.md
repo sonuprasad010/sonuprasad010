@@ -12,7 +12,7 @@
 
 ✈️ I am in love with **traveling**! I have been on numerous solo trips across **SouthEast Asia**, namely **The Philippines**, **Bali**, **Thailand**, **Bhutan**, **Nepal**, and several others
 
-## 🏅 Achievements
+<!--## 🏅 Experience
 
 - 📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
 - 🏆 **Top Rated** at _Upwork_ (September 2021)
@@ -23,6 +23,7 @@
 - 🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
 - 🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
 - 🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
+-->
 
 ## 🛠️ Skills
 
