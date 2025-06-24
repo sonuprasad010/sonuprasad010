@@ -4,13 +4,11 @@
 
 🎓 I am Sonu Prasad Dhakal, a **Full Stack Software Developer** (specializing in **Flutter** & **PHP Laravel Developer**). I am a BCA graduate from Tribhuvan University, 2023 pass out.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am exceptionally enthusiastic about learning new technology & take great pride in my ability to pick up skills swiftly.
+👨‍💻 I'm currently building and contributing to open-source projects to share my work with the global developer community. My passion lies in creating solutions that others can benefit from and collaborate on, while continuously expanding my tech stack through hands-on learning.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **break dancing**, **paddle tennis**, and **guitar** to some whacky ones like **writing with my left hand**.
+🌟 When I'm away from the keyboard, you'll find me exploring new mobile game strategies or planning my next adventure with friends and family. These experiences in teamwork and exploration fuel my creative approach to solving tech challenges.
 
-📚 I love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by **Darren Hardy** in the personal development genre and **Rich Dad Poor Dad** by **Robert Kiyosaki** in the financial literacy genre.
 
-✈️ I am in love with **traveling**! I have been on numerous solo trips across **SouthEast Asia**, namely **The Philippines**, **Bali**, **Thailand**, **Bhutan**, **Nepal**, and several others
 
 <!--## 🏅 Experience
 
@@ -27,7 +25,7 @@
 
 ## 🛠️ Skills
 
-### **🛠 Programming Languages**
+### Programming Languages
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
