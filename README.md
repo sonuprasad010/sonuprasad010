@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Full Stack Software Developer** (specializing in **React** & **React Native Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on **Upwork**. I am a **Computer Science & Engineering** too, but plan to never use my degree.
+🎓 I am Sonu Prasad Dhakal, a **Full Stack Software Developer** (specializing in **Flutter** & **PHP Laravel Developer**). I am a BCA graduate from Tribhuvan University, 2023 pass out.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am exceptionally enthusiastic about learning new technology & take great pride in my ability to pick up skills swiftly.
 
