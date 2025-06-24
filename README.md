@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Sonu Prasad Dhakal, a **Full Stack Software Developer** (specializing in **Flutter** & **PHP Laravel Developer**). I am a BCA graduate from Tribhuvan University, 2023 pass out.
+🎓 I am Sonu Prasad Dhakal, a **Full Stack Software Developer** (specializing in **Flutter**, **PHP Laravel** & **React Js**). I am a BCA graduate from Tribhuvan University, 2023 pass out.
 
 👨‍💻 I'm currently building and contributing to open-source projects to share my work with the global developer community. My passion lies in creating solutions that others can benefit from and collaborate on, while continuously expanding my tech stack through hands-on learning.
 
